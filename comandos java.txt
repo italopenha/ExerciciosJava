@@ -1,0 +1,2 @@
+Compilar: javac NomeArquivo.java
+Rodar: java NomeArquivo
